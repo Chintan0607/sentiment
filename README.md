@@ -21,8 +21,8 @@ This is a simple **Sentiment Analysis Web App** built with [Streamlit](https://s
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/review-sentiment.git
-   cd review-sentiment-analyzer
+   git clone https://github.com/Chintan0607/sentiment.git
+   cd sentiment
    ```
 
 2. Install the required dependencies:
